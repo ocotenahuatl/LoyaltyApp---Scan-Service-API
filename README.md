@@ -13,3 +13,4 @@ This API handles the scanning of QR codes, the tagging of sales associates, and 
 - `POST /api/scan`: Handles QR code scanning and geolocation validation.
 - `POST /api/store/:storeId/associate`: Adds a sales associate to a store.
 - `DELETE /api/store/:storeId/associate/:associateId`: Removes a sales associate from a store.
+![Screenshot 2025-04-06 124412](https://github.com/user-attachments/assets/4026f323-c0e9-4669-939c-09ce7a2101ae)
